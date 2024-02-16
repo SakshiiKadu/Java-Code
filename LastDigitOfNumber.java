@@ -1,7 +1,6 @@
 //Java program to find the last digit of a given number.
 
 
-
 class LastDigitOfNumber
 {
     
@@ -14,7 +13,6 @@ class LastDigitOfNumber
         // The result is the remainder when dividing the number by 10
         int lastDigit = number % 10;
 
-      
         System.out.println(lastDigit);
     }
 }
